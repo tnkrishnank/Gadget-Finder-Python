@@ -1,0 +1,19 @@
+BRAND               : HAIER
+MODEL               : HSU19P-JS5B
+PRICE               : Rs. 101500
+RELEASE YEAR        : 2020
+WARRANTY            : 1 YEARS
+WEIGHT              : 12.5 kg
+COLOURS             : GREY
+ADDITIONAL FEATURES : VOICE CONTROL
+
+TONNAGE           : 1.5 TON
+AREA              : 150 SQ. FEETS
+ENERGY RATING     : 5 STAR
+COMPRESSOR TYPE   : ROTARY
+AC TYPE           : INVERTER SPLIT AC
+
+LENGTH  : 31.5 cm
+BREADTH : 97 cm
+DEPTH   : 23.5 cm
+

@@ -1,0 +1,19 @@
+BRAND               : SAMSUNG
+MODEL               : AR18NV3JGMC
+PRICE               : Rs. 47620
+RELEASE YEAR        : 2018
+WARRANTY            : 1 YEARS
+WEIGHT              : 9.8 kg
+COLOURS             : PINK
+ADDITIONAL FEATURES : ANTI CORROSION
+
+TONNAGE           : 1.5 TON
+AREA              : 150 SQ. FEETS
+ENERGY RATING     : 3 STAR
+COMPRESSOR TYPE   : CIRCULAR
+AC TYPE           : SPLIT AC
+
+LENGTH  : 29.9 cm
+BREADTH : 94.3 cm
+DEPTH   : 35.2 cm
+

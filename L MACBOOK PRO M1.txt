@@ -1,0 +1,44 @@
+BRAND               : APPLE
+MODEL               : MACBOOK PRO M1
+PRICE               : Rs. 134990
+RELEASE YEAR        : 2020
+WARRANTY            : 2 YEARS
+WEIGHT              : 1.4 kg
+COLOURS             : SPACE GREY
+ADDITIONAL FEATURES : N/A
+
+ADDITIONAL STORAGE   : 0 GB
+TOUCH SCREEN         : NOT AVAILABLE
+GRAPHICS CARD        : NOT AVAILABLE
+TYPE                 : ULTRABOOK
+
+CAPACITY       : 11640 mAh
+STANDBY TIME   : 17 HRS
+CHARGER OUTPUT : 61 W
+
+NUMBER OF CAMERAS : 1
+SPECIFICATIONS    : HD CAM
+
+LENGTH  : 30.41 cm
+BREADTH : 21.24 cm
+DEPTH   : 1.56 cm
+
+SIZE          : 13.3 inch
+TYPE          : LED
+RESOLTION     : 2560 x 1600
+REFRESH RATE  : 60 Hz
+PIXEL DENSITY : 227 ppi
+
+RAM SIZE          : 8 GB
+STORAGE SIZE      : 512 GB
+NETWORK DETAILS   : 802.11 B/G/N/AX WIRELESS LAN, BLUETOOTH 5.0
+OS                : MACOS BIG SUR
+PROCESSOR DETAILS : APPLE M1
+
+AUX                  : NOT AVAILABLE
+HDMI                 : NOT AVAILABLE
+RJ45                 : NOT AVAILABLE
+VGA                  : NOT AVAILABLE
+USB                  : NOT AVAILABLE
+TYPE-C               : AVAILABLE
+
